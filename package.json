@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "bin": {
-    testNPX: "bin/index.js" 
-  },
-  "scripts": {
+    "testNPX": "bin/index.js" 
   },
   "keywords": [],
   "author": "",
