@@ -1,0 +1,13 @@
+{
+  "name": "testnpx",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    testNPX: "bin/index.js" 
+  },
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
